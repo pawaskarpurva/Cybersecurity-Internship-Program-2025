@@ -11,26 +11,33 @@ Each folder contains tasks, scripts, reports, and evidence screenshots relevant 
 Map APT Tactics, Techniques, and Procedures to the MITRE ATT&CK Framework.
 Create and test YARA rules.
 Export indicators to MISP and take screenshots of activities.
+
 🔹 Week 2 - Malware & IOC (APT28)
 Study APT28 case and extract Indicators of Compromise.
 Analyze malware reports.
 Use MISP and HybridAnalysis for correlation.
+
 🔹 Week 3 - Linux Privilege Escalation
 Hands-on with OverTheWire: Bandit.
 Prepare cheat sheets and screenshots for local privilege escalation methods.
+
 🔹 Week 4 - OSINT & Reconnaissance
 Perform metadata analysis and image tracking.
 Passive information gathering using OSINT tools.
+
 🔹 Week 5 - Web Exploitation
 Identify and report XSS, SQLi, SSRF vulnerabilities.
 Log analysis and use PortSwigger (Burp Suite) references.
+
 🔹 Week 6 - Vulnerable VMs
 Capture the flag on Mr. Robot & DC-1 virtual machines.
 Document root access walkthroughs.
+
 🔹 Week 7 - Log Analysis & Incident Response
 Perform threat hunting using Graylog queries.
 Reconstruct attack timeline.
 Prepare an IR checklist.
+
 🔹 Week 8 - Finalization
 Compile all reports.
 Peer review and submit final internship report.
