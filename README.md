@@ -7,6 +7,7 @@ Digi-Suraksha/ ├── Week-1_MITRE-TTP-Mapping/ ├── Week-2_Malware-IOC-
 Each folder contains tasks, scripts, reports, and evidence screenshots relevant to that week's focus area.
 
 📌 Weekly Breakdown
+
 🔹 Week 1 - MITRE TTP Mapping
 Map APT Tactics, Techniques, and Procedures to the MITRE ATT&CK Framework.
 Create and test YARA rules.
