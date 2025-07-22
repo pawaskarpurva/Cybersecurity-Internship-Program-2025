@@ -60,4 +60,5 @@ Log Forensics and Incident Response
 This project is licensed under the MIT License. See LICENSE for more details.
 
 🙋 Acknowledgments
+
 Thanks to Digi Suraksha for providing this internship opportunity and to all mentors and contributors who helped shape this learning experience.
