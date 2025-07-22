@@ -3,12 +3,12 @@ Welcome to the official repository for the Digi Suraksha Cybersecurity Internshi
 This internship is focused on hands-on experience across various domains in cybersecurity, including threat intelligence, malware analysis, Linux privilege escalation, OSINT, web exploitation, vulnerability assessments, and incident response.
 
 📁 Folder Structure
--
+--
 Digi-Suraksha/ ├── Week-1_MITRE-TTP-Mapping/ ├── Week-2_Malware-IOC-APT28/ ├── Week-3_Linux-Privesc/ ├── Week-4_OSINT-Recon/ ├── Week-5_Web-Exploits/ ├── Week-6_VulnVMs/ ├── Week-7_Log-IR/ ├── Week-8_Finalization/
 Each folder contains tasks, scripts, reports, and evidence screenshots relevant to that week's focus area.
 
 📌 Weekly Breakdown
--
+--
 🔹 Week 1 - MITRE TTP Mapping
 Map APT Tactics, Techniques, and Procedures to the MITRE ATT&CK Framework.
 Create and test YARA rules.
@@ -46,7 +46,7 @@ Peer review and submit final internship report.
 Guide for GitHub submission.
 
 🧠 Skills Gained
-
+--
 Threat Intelligence Mapping
 IOC Extraction and Malware Analysis
 Linux Privilege Escalation
@@ -56,9 +56,9 @@ Vulnerability Assessment
 Log Forensics and Incident Response
 
 📄 License
-
+--
 This project is licensed under the MIT License. See LICENSE for more details.
 
 🙋 Acknowledgments
-
+--
 Thanks to Digi Suraksha for providing this internship opportunity and to all mentors and contributors who helped shape this learning experience.
